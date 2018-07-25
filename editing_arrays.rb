@@ -4,7 +4,7 @@ rainbow_colors = [
   "light_cyan"
 ]
 
-def change_rainbow_colors
+def change_rainbow_colors(rainbow_colors)
   rainbow_colors[0] = "red"
   puts change_rainbow_colors[0]
   rainbow_colors[1] = "light_red"
