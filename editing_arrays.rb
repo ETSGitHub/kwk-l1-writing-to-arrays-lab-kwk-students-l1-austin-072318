@@ -33,5 +33,5 @@ def add_colors
  rainbow_colors
 end
 
-change_rainbow_colors
-add_colors
+# change_rainbow_colors
+# add_colors
