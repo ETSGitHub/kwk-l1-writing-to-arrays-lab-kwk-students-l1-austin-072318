@@ -23,7 +23,13 @@ def change_rainbow_colors
 end
 
 def add_colors
+   rainbow_colors = [
+    "yellow",
+    "default",
+    "light_cyan"
+  ]
  rainbow_colors.push("green","blue")
+ rainbow_colors
 end
 
 change_rainbow_colors
