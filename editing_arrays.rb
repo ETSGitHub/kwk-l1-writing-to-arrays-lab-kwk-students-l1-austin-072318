@@ -28,7 +28,8 @@ def add_colors
     "default",
     "light_cyan"
   ]
- rainbow_colors << ""
+ rainbow_colors << "green"
+ rainbow_colors << "blue"
  rainbow_colors
 end
 
